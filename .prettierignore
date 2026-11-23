@@ -1,0 +1,7 @@
+# Skills de agentes instaladas de fontes externas (verificadas por hash em skills-lock.json)
+.agents
+.claude
+skills-lock.json
+
+# Gerado pelo npm
+package-lock.json
